@@ -13,7 +13,7 @@ This project implements Q-learning in a custom gridworld environment and compare
 - **Q-Learning** (Off-Policy TD control)
 - **SARSA** (On-Policy TD control)
 
-### Learning Objectives Demonstrated
+### Learning objectives demonstrated
 
 - Understanding of TD Learning methods
 - Implementation of value-based RL algorithms
