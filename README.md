@@ -6,21 +6,6 @@ The implementation and comparison of Q-Learning and SARSA algorithms in a 4×4 g
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Environment Description](#environment-description)
-- [Implemented Algorithms](#implemented-algorithms)
-- [Key Features](#key-features)
-- [Results Summary](#results-summary)
-- [Project Structure](#project-structure)
-- [Installation & Usage](#installation--usage)
-- [Technical Implementation](#technical-implementation)
-- [Visualizations](#visualizations)
-- [References](#references)
-
----
-
 ## Project overview
 
 This project implements Q-learning in a custom gridworld environment and compares it to another fundamental Temporal Difference (TD) learning algorithm - SARSA.
